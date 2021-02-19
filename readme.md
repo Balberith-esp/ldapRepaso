@@ -8,3 +8,9 @@
 #### Crear en LDAP una nueva organizationalUnit llamada alumnos. Crea también 6 usuarios pertenecientes a esa unidad. Por último, crea dos grupos (groupOfUniqueNames) llamados daw1 y daw2. De los 6 usuarios creados antes, habrá 3 en cada grupo. Para ello harás un fichero con extensión ldif que deberás añadir al LDAP.
 ![Fichero Creado](imagenes/ficheroCreado.PNG)
 ![Alumnos Importados](imagenes/alumnosImportados.PNG)
+#### Crea a continuación un proyecto dinámico en Eclipse (Dynamic Web Project) llamado repaso. En él haz un fichero index.jsp que muestre la hora actual.
+![WEB XML](imagenes/webXML.PNG)
+![CONTEXT XML](imagenes/contextXML.PNG)
+![Permiso Concedido](imagenes/permisoConcedido.PNG)
+![Permiso Denegado](imagenes/permisoDenegado.PNG)
+
