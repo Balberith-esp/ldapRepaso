@@ -14,3 +14,16 @@
 ![Permiso Concedido](imagenes/permisoConcedido.PNG)
 ![Permiso Denegado](imagenes/permisoDenegado.PNG)
 
+# Ejercicio 3
+#### Crea un hos virtual repaso.com
+
+![Creamos el nuevo hosts](imagenes/nuevoHosts.PNG)
+![Editamos el server XML](imagenes/editamosServerXML.PNG)
+![Creamos la carpeta de nuestro hosts](imagenes/carpertaCreada.PNG)
+![Desplegamos](imagenes/repaso_desplegado.PNG)
+#### Ahora actualizaremos la aplicacion para que se acceda por ssl
+![Generamos nuestra clave ssl ](imagenes/clave.PNG)
+![Configuramos nuestra app para que funcione por ssl](imagenes/configuramosApp.PNG)
+![Editamos el conector para el puerto ssl](imagenes/editamosConector.PNG.PNG)
+![Vemos nuestro certificado](imagenes/SSL.PNG)
+![App desplegada por ssl](imagenes/SSL_creado.PNG)
