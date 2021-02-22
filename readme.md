@@ -24,6 +24,6 @@
 #### Ahora actualizaremos la aplicacion para que se acceda por ssl
 ![Generamos nuestra clave ssl ](imagenes/clave.PNG)
 ![Configuramos nuestra app para que funcione por ssl](imagenes/configuramosApp.PNG)
-![Editamos el conector para el puerto ssl](imagenes/editamosConector.PNG.PNG)
+![Editamos el conector para el puerto ssl](imagenes/editamosConector.PNG)
 ![Vemos nuestro certificado](imagenes/SSL.PNG)
 ![App desplegada por ssl](imagenes/SSL_creado.PNG)
